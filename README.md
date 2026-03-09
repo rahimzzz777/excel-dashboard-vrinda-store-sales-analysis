@@ -2,7 +2,7 @@
 
 Excel dashboard analyzing Vrinda Store sales data to identify customer trends, top-performing states, and high-impact sales channels for business decision-making.
 
-📊 Retail Sales Analysis | Excel Dashboard | Data Cleaning & Business Insights
+📊 Excel Dashboard | Retail Sales Analysis | Business Insights
 
 **Skills:** Excel | Data Cleaning | Pivot Tables | Pivot Charts | Data Visualization | Business Analysis 
 
