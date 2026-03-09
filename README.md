@@ -163,23 +163,3 @@ Based on the analysis, Vrinda Store should focus marketing efforts on:
 - Promotions and campaigns on **Amazon, Flipkart, and Myntra**
 
 Offering **ads, discounts, and promotional coupons** on these channels can help increase sales and improve business performance in the upcoming year.
-
----
-
-## Project Structure
-
-excel-dashboard-vrinda-store-sales-analysis
-│
-├── dataset
-│   └── raw_data_vrinda_store.xlsx
-│
-├── cleaned-data
-│   └── vrinda_store_cleaned.xlsx
-│
-├── dashboard
-│   └── vrinda_store_data_analysis.xlsx
-│
-├── images
-│   └── dashboard.png
-│
-└── README.md
