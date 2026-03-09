@@ -71,7 +71,7 @@ Before analysis, the dataset was cleaned and structured for better analysis.
 - Pivot Tables
 - Pivot Charts
 - Slicers (Interactive Filters)
-- Data Cleaning techniques
+- Interactive Dashboard
 
 ### Skills Demonstrated
 
@@ -171,15 +171,15 @@ Offering **ads, discounts, and promotional coupons** on these channels can help 
 excel-dashboard-vrinda-store-sales-analysis
 │
 ├── dataset
-│ └── raw_data_vrinda_store.xlsx
+│   └── raw_data_vrinda_store.xlsx
 │
 ├── cleaned-data
-│ └── vrinda_store_cleaned.xlsx
+│   └── vrinda_store_cleaned.xlsx
 │
 ├── dashboard
-│ └── vrinda_store_data_analysis.xlsx
+│   └── vrinda_store_data_analysis.xlsx
 │
 ├── images
-│ └── dashboard.png
+│   └── dashboard.png
 │
 └── README.md
