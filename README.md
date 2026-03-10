@@ -1,6 +1,6 @@
 # Excel Dashboard: Vrinda Store Sales Analysis
 
-Excel dashboard analyzing Vrinda Store sales data to identify customer trends, top-performing states, and high-impact sales channels for business decision-making.
+Excel dashboard analyzing vrinda store sales data to identify customer trends, top-performing states, and high-impact sales channels for business decision-making.
 
 📊 Excel Dashboard | Retail Sales Analysis | Business Insights
 
